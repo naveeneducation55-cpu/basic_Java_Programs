@@ -3,8 +3,6 @@
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue)
 ![Status](https://img.shields.io/badge/Learning-In%20Progress-brightgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/reponame)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/reponame)
 
 ---
 
@@ -61,24 +59,6 @@ Java-DSA-Practice
 │
 └── README.md
 ```
-
----
-
-# 📊 Learning Progress Tracker
-
-| Topic               | Status         |
-| ------------------- | -------------- |
-| Java Basics         | ✅ Completed    |
-| Loops & Patterns    | ✅ Completed    |
-| Recursion           | 🟡 In Progress |
-| Arrays              | 🟡 In Progress |
-| Linked List         | ⏳ Upcoming     |
-| Stack               | ⏳ Upcoming     |
-| Queue               | ⏳ Upcoming     |
-| Trees               | ⏳ Upcoming     |
-| Graphs              | ⏳ Upcoming     |
-| Dynamic Programming | ⏳ Upcoming     |
-
 ---
 
 # 🧠 Topics Covered
@@ -147,44 +127,6 @@ Example:
 javac RightTriangleRecursive.java
 java RightTriangleRecursive
 ```
-
----
-
-# 📈 DSA Learning Roadmap
-
-```
-Java Basics
-   ↓
-Problem Solving
-   ↓
-Recursion
-   ↓
-Arrays & Strings
-   ↓
-Linked Lists
-   ↓
-Stack & Queue
-   ↓
-Trees
-   ↓
-Graphs
-   ↓
-Dynamic Programming
-```
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
-
----
-
-# 🔥 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername\&theme=tokyo-night)
 
 ---
 
